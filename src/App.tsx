@@ -7,6 +7,7 @@ import Services from './components/Services';
 import Process from './components/Process';
 import TechStack from './components/TechStack';
 import Portfolio from './components/Portfolio';
+import Partnerships from './components/Partnerships';
 import About from './components/About';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
@@ -77,6 +78,7 @@ function App() {
         <Process />
         <TechStack />
         <Portfolio />
+        <Partnerships />
         <About />
         <Testimonials />
         <Contact />
